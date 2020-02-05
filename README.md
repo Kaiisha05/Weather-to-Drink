@@ -85,3 +85,5 @@ Our app takes a user's location input. This information is used to pull weather 
 ## Link to App
 https://kaiisha05.github.io/Weather-to-Drink/
 
+## Contributors:
+Jonathan Bodnar | Lavar Cole | Aruna Kolli | Kaiisha Oliver 
