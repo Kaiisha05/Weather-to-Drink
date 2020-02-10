@@ -45,7 +45,7 @@ Our app takes a user's location input. This information is used to pull weather 
 [Project 1](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-atl-fsf-pt-08-2019-u-c/wikis/Project-01)
 
 ## Links to App & Demo:
-https://kaiisha05.github.io/Weather-to-Drink/
+https://kaiisha05.github.io/Weather-to-Drink/ | 
 https://drive.google.com/file/d/1WelGH8861ej5zPrEUnIfXgdeHFrJrjeA/view
 
 ### Contributors:
